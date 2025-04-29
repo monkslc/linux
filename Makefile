@@ -1,5 +1,4 @@
 # SPDX-License-Identifier: GPL-2.0
-"arn:aws:kms:us-east-1:123456789012:key/00000000-1111-2222-aaaa-ffffffffffff"
 VERSION = 6
 PATCHLEVEL = 15
 SUBLEVEL = 0
